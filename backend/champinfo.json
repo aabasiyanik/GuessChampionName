@@ -1,0 +1,1763 @@
+{
+    "Aatrox": {
+        "name": "Aatrox",
+        "gender": "Unknown",
+        "partype": "Manaless",
+        "title": "the Darkin Blade",
+        "attackrange": 175,
+        "tags": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "Ahri": {
+        "name": "Ahri",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Nine-Tailed Fox",
+        "attackrange": 550,
+        "tags": [
+            "Mage",
+            "Assassin"
+        ]
+    },
+    "Akali": {
+        "name": "Akali",
+        "gender": "Unknown",
+        "partype": "Energy",
+        "title": "the Rogue Assassin",
+        "attackrange": 125,
+        "tags": [
+            "Assassin"
+        ]
+    },
+    "Akshan": {
+        "name": "Akshan",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Rogue Sentinel",
+        "attackrange": 500,
+        "tags": [
+            "Marksman",
+            "Assassin"
+        ]
+    },
+    "Alistar": {
+        "name": "Alistar",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Minotaur",
+        "attackrange": 125,
+        "tags": [
+            "Tank",
+            "Support"
+        ]
+    },
+    "Amumu": {
+        "name": "Amumu",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Sad Mummy",
+        "attackrange": 125,
+        "tags": [
+            "Tank",
+            "Mage"
+        ]
+    },
+    "Anivia": {
+        "name": "Anivia",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Cryophoenix",
+        "attackrange": 600,
+        "tags": [
+            "Mage",
+            "Support"
+        ]
+    },
+    "Annie": {
+        "name": "Annie",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Dark Child",
+        "attackrange": 625,
+        "tags": [
+            "Mage"
+        ]
+    },
+    "Aphelios": {
+        "name": "Aphelios",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Weapon of the Faithful",
+        "attackrange": 550,
+        "tags": [
+            "Marksman"
+        ]
+    },
+    "Ashe": {
+        "name": "Ashe",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Frost Archer",
+        "attackrange": 600,
+        "tags": [
+            "Marksman",
+            "Support"
+        ]
+    },
+    "AurelionSol": {
+        "name": "Aurelion Sol",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "The Star Forger",
+        "attackrange": 550,
+        "tags": [
+            "Mage"
+        ]
+    },
+    "Azir": {
+        "name": "Azir",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Emperor of the Sands",
+        "attackrange": 525,
+        "tags": [
+            "Mage",
+            "Marksman"
+        ]
+    },
+    "Bard": {
+        "name": "Bard",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Wandering Caretaker",
+        "attackrange": 500,
+        "tags": [
+            "Support",
+            "Mage"
+        ]
+    },
+    "Belveth": {
+        "name": "Bel'Veth",
+        "gender": "Unknown",
+        "partype": "Manaless",
+        "title": "the Empress of the Void",
+        "attackrange": 175,
+        "tags": [
+            "Fighter"
+        ]
+    },
+    "Blitzcrank": {
+        "name": "Blitzcrank",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Great Steam Golem",
+        "attackrange": 125,
+        "tags": [
+            "Tank",
+            "Fighter"
+        ]
+    },
+    "Brand": {
+        "name": "Brand",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Burning Vengeance",
+        "attackrange": 550,
+        "tags": [
+            "Mage"
+        ]
+    },
+    "Braum": {
+        "name": "Braum",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Heart of the Freljord",
+        "attackrange": 125,
+        "tags": [
+            "Support",
+            "Tank"
+        ]
+    },
+    "Caitlyn": {
+        "name": "Caitlyn",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Sheriff of Piltover",
+        "attackrange": 650,
+        "tags": [
+            "Marksman"
+        ]
+    },
+    "Camille": {
+        "name": "Camille",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Steel Shadow",
+        "attackrange": 125,
+        "tags": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "Cassiopeia": {
+        "name": "Cassiopeia",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Serpent's Embrace",
+        "attackrange": 550,
+        "tags": [
+            "Mage"
+        ]
+    },
+    "Chogath": {
+        "name": "Cho'Gath",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Terror of the Void",
+        "attackrange": 125,
+        "tags": [
+            "Tank",
+            "Mage"
+        ]
+    },
+    "Corki": {
+        "name": "Corki",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Daring Bombardier",
+        "attackrange": 550,
+        "tags": [
+            "Marksman"
+        ]
+    },
+    "Darius": {
+        "name": "Darius",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Hand of Noxus",
+        "attackrange": 175,
+        "tags": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "Diana": {
+        "name": "Diana",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "Scorn of the Moon",
+        "attackrange": 150,
+        "tags": [
+            "Fighter",
+            "Mage"
+        ]
+    },
+    "Draven": {
+        "name": "Draven",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Glorious Executioner",
+        "attackrange": 550,
+        "tags": [
+            "Marksman"
+        ]
+    },
+    "DrMundo": {
+        "name": "Dr. Mundo",
+        "gender": "Unknown",
+        "partype": "Manaless",
+        "title": "the Madman of Zaun",
+        "attackrange": 125,
+        "tags": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "Ekko": {
+        "name": "Ekko",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Boy Who Shattered Time",
+        "attackrange": 125,
+        "tags": [
+            "Assassin",
+            "Fighter"
+        ]
+    },
+    "Elise": {
+        "name": "Elise",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Spider Queen",
+        "attackrange": 550,
+        "tags": [
+            "Mage",
+            "Fighter"
+        ]
+    },
+    "Evelynn": {
+        "name": "Evelynn",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "Agony's Embrace",
+        "attackrange": 125,
+        "tags": [
+            "Assassin",
+            "Mage"
+        ]
+    },
+    "Ezreal": {
+        "name": "Ezreal",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Prodigal Explorer",
+        "attackrange": 550,
+        "tags": [
+            "Marksman",
+            "Mage"
+        ]
+    },
+    "Fiddlesticks": {
+        "name": "Fiddlesticks",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Ancient Fear",
+        "attackrange": 480,
+        "tags": [
+            "Mage",
+            "Support"
+        ]
+    },
+    "Fiora": {
+        "name": "Fiora",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Grand Duelist",
+        "attackrange": 150,
+        "tags": [
+            "Fighter",
+            "Assassin"
+        ]
+    },
+    "Fizz": {
+        "name": "Fizz",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Tidal Trickster",
+        "attackrange": 175,
+        "tags": [
+            "Assassin",
+            "Fighter"
+        ]
+    },
+    "Galio": {
+        "name": "Galio",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Colossus",
+        "attackrange": 150,
+        "tags": [
+            "Tank",
+            "Mage"
+        ]
+    },
+    "Gangplank": {
+        "name": "Gangplank",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Saltwater Scourge",
+        "attackrange": 125,
+        "tags": [
+            "Fighter"
+        ]
+    },
+    "Garen": {
+        "name": "Garen",
+        "gender": "Unknown",
+        "partype": "Manaless",
+        "title": "The Might of Demacia",
+        "attackrange": 175,
+        "tags": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "Gnar": {
+        "name": "Gnar",
+        "gender": "Unknown",
+        "partype": "Manaless",
+        "title": "the Missing Link",
+        "attackrange": 175,
+        "tags": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "Gragas": {
+        "name": "Gragas",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Rabble Rouser",
+        "attackrange": 125,
+        "tags": [
+            "Fighter",
+            "Mage"
+        ]
+    },
+    "Graves": {
+        "name": "Graves",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Outlaw",
+        "attackrange": 425,
+        "tags": [
+            "Marksman"
+        ]
+    },
+    "Gwen": {
+        "name": "Gwen",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "The Hallowed Seamstress",
+        "attackrange": 150,
+        "tags": [
+            "Fighter",
+            "Assassin"
+        ]
+    },
+    "Hecarim": {
+        "name": "Hecarim",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Shadow of War",
+        "attackrange": 175,
+        "tags": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "Heimerdinger": {
+        "name": "Heimerdinger",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Revered Inventor",
+        "attackrange": 550,
+        "tags": [
+            "Mage",
+            "Support"
+        ]
+    },
+    "Illaoi": {
+        "name": "Illaoi",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Kraken Priestess",
+        "attackrange": 125,
+        "tags": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "Irelia": {
+        "name": "Irelia",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Blade Dancer",
+        "attackrange": 200,
+        "tags": [
+            "Fighter",
+            "Assassin"
+        ]
+    },
+    "Ivern": {
+        "name": "Ivern",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Green Father",
+        "attackrange": 475,
+        "tags": [
+            "Support",
+            "Mage"
+        ]
+    },
+    "Janna": {
+        "name": "Janna",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Storm's Fury",
+        "attackrange": 500,
+        "tags": [
+            "Support",
+            "Mage"
+        ]
+    },
+    "JarvanIV": {
+        "name": "Jarvan IV",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Exemplar of Demacia",
+        "attackrange": 175,
+        "tags": [
+            "Tank",
+            "Fighter"
+        ]
+    },
+    "Jax": {
+        "name": "Jax",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "Grandmaster at Arms",
+        "attackrange": 125,
+        "tags": [
+            "Fighter",
+            "Assassin"
+        ]
+    },
+    "Jayce": {
+        "name": "Jayce",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Defender of Tomorrow",
+        "attackrange": 125,
+        "tags": [
+            "Fighter",
+            "Marksman"
+        ]
+    },
+    "Jhin": {
+        "name": "Jhin",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Virtuoso",
+        "attackrange": 550,
+        "tags": [
+            "Marksman",
+            "Mage"
+        ]
+    },
+    "Jinx": {
+        "name": "Jinx",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Loose Cannon",
+        "attackrange": 525,
+        "tags": [
+            "Marksman"
+        ]
+    },
+    "Kaisa": {
+        "name": "Kai'Sa",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "Daughter of the Void",
+        "attackrange": 525,
+        "tags": [
+            "Marksman"
+        ]
+    },
+    "Kalista": {
+        "name": "Kalista",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Spear of Vengeance",
+        "attackrange": 525,
+        "tags": [
+            "Marksman"
+        ]
+    },
+    "Karma": {
+        "name": "Karma",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Enlightened One",
+        "attackrange": 525,
+        "tags": [
+            "Mage",
+            "Support"
+        ]
+    },
+    "Karthus": {
+        "name": "Karthus",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Deathsinger",
+        "attackrange": 450,
+        "tags": [
+            "Mage"
+        ]
+    },
+    "Kassadin": {
+        "name": "Kassadin",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Void Walker",
+        "attackrange": 150,
+        "tags": [
+            "Assassin",
+            "Mage"
+        ]
+    },
+    "Katarina": {
+        "name": "Katarina",
+        "gender": "Unknown",
+        "partype": "Manaless",
+        "title": "the Sinister Blade",
+        "attackrange": 125,
+        "tags": [
+            "Assassin",
+            "Mage"
+        ]
+    },
+    "Kayle": {
+        "name": "Kayle",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Righteous",
+        "attackrange": 175,
+        "tags": [
+            "Fighter",
+            "Support"
+        ]
+    },
+    "Kayn": {
+        "name": "Kayn",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Shadow Reaper",
+        "attackrange": 175,
+        "tags": [
+            "Fighter",
+            "Assassin"
+        ]
+    },
+    "Kennen": {
+        "name": "Kennen",
+        "gender": "Unknown",
+        "partype": "Energy",
+        "title": "the Heart of the Tempest",
+        "attackrange": 550,
+        "tags": [
+            "Mage",
+            "Marksman"
+        ]
+    },
+    "Khazix": {
+        "name": "Kha'Zix",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Voidreaver",
+        "attackrange": 125,
+        "tags": [
+            "Assassin"
+        ]
+    },
+    "Kindred": {
+        "name": "Kindred",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "The Eternal Hunters",
+        "attackrange": 500,
+        "tags": [
+            "Marksman"
+        ]
+    },
+    "Kled": {
+        "name": "Kled",
+        "gender": "Unknown",
+        "partype": "Manaless",
+        "title": "the Cantankerous Cavalier",
+        "attackrange": 125,
+        "tags": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "KogMaw": {
+        "name": "Kog'Maw",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Mouth of the Abyss",
+        "attackrange": 500,
+        "tags": [
+            "Marksman",
+            "Mage"
+        ]
+    },
+    "KSante": {
+        "name": "K'Sante",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Pride of Nazumah",
+        "attackrange": 175,
+        "tags": [
+            "Tank",
+            "Fighter"
+        ]
+    },
+    "Leblanc": {
+        "name": "LeBlanc",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Deceiver",
+        "attackrange": 525,
+        "tags": [
+            "Assassin",
+            "Mage"
+        ]
+    },
+    "LeeSin": {
+        "name": "Lee Sin",
+        "gender": "Unknown",
+        "partype": "Energy",
+        "title": "the Blind Monk",
+        "attackrange": 125,
+        "tags": [
+            "Fighter",
+            "Assassin"
+        ]
+    },
+    "Leona": {
+        "name": "Leona",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Radiant Dawn",
+        "attackrange": 125,
+        "tags": [
+            "Tank",
+            "Support"
+        ]
+    },
+    "Lillia": {
+        "name": "Lillia",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Bashful Bloom",
+        "attackrange": 325,
+        "tags": [
+            "Fighter",
+            "Mage"
+        ]
+    },
+    "Lissandra": {
+        "name": "Lissandra",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Ice Witch",
+        "attackrange": 550,
+        "tags": [
+            "Mage"
+        ]
+    },
+    "Lucian": {
+        "name": "Lucian",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Purifier",
+        "attackrange": 500,
+        "tags": [
+            "Marksman"
+        ]
+    },
+    "Lulu": {
+        "name": "Lulu",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Fae Sorceress",
+        "attackrange": 550,
+        "tags": [
+            "Support",
+            "Mage"
+        ]
+    },
+    "Lux": {
+        "name": "Lux",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Lady of Luminosity",
+        "attackrange": 550,
+        "tags": [
+            "Mage",
+            "Support"
+        ]
+    },
+    "Malphite": {
+        "name": "Malphite",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "Shard of the Monolith",
+        "attackrange": 125,
+        "tags": [
+            "Tank",
+            "Fighter"
+        ]
+    },
+    "Malzahar": {
+        "name": "Malzahar",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Prophet of the Void",
+        "attackrange": 500,
+        "tags": [
+            "Mage",
+            "Assassin"
+        ]
+    },
+    "Maokai": {
+        "name": "Maokai",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Twisted Treant",
+        "attackrange": 125,
+        "tags": [
+            "Tank",
+            "Mage"
+        ]
+    },
+    "MasterYi": {
+        "name": "Master Yi",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Wuju Bladesman",
+        "attackrange": 175,
+        "tags": [
+            "Assassin",
+            "Fighter"
+        ]
+    },
+    "Milio": {
+        "name": "Milio",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "The Gentle Flame",
+        "attackrange": 525,
+        "tags": [
+            "Support"
+        ]
+    },
+    "MissFortune": {
+        "name": "Miss Fortune",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Bounty Hunter",
+        "attackrange": 550,
+        "tags": [
+            "Marksman"
+        ]
+    },
+    "MonkeyKing": {
+        "name": "Wukong",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Monkey King",
+        "attackrange": 175,
+        "tags": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "Mordekaiser": {
+        "name": "Mordekaiser",
+        "gender": "Unknown",
+        "partype": "Manaless",
+        "title": "the Iron Revenant",
+        "attackrange": 175,
+        "tags": [
+            "Fighter"
+        ]
+    },
+    "Morgana": {
+        "name": "Morgana",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Fallen",
+        "attackrange": 450,
+        "tags": [
+            "Mage",
+            "Support"
+        ]
+    },
+    "Naafiri": {
+        "name": "Naafiri",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Hound of a Hundred Bites",
+        "attackrange": 125,
+        "tags": [
+            "Assassin"
+        ]
+    },
+    "Nami": {
+        "name": "Nami",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Tidecaller",
+        "attackrange": 550,
+        "tags": [
+            "Support",
+            "Mage"
+        ]
+    },
+    "Nasus": {
+        "name": "Nasus",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Curator of the Sands",
+        "attackrange": 125,
+        "tags": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "Nautilus": {
+        "name": "Nautilus",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Titan of the Depths",
+        "attackrange": 175,
+        "tags": [
+            "Tank",
+            "Support"
+        ]
+    },
+    "Neeko": {
+        "name": "Neeko",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Curious Chameleon",
+        "attackrange": 550,
+        "tags": [
+            "Mage",
+            "Support"
+        ]
+    },
+    "Nidalee": {
+        "name": "Nidalee",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Bestial Huntress",
+        "attackrange": 525,
+        "tags": [
+            "Assassin",
+            "Mage"
+        ]
+    },
+    "Nilah": {
+        "name": "Nilah",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Joy Unbound",
+        "attackrange": 225,
+        "tags": [
+            "Fighter",
+            "Assassin"
+        ]
+    },
+    "Nocturne": {
+        "name": "Nocturne",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Eternal Nightmare",
+        "attackrange": 125,
+        "tags": [
+            "Assassin",
+            "Fighter"
+        ]
+    },
+    "Nunu": {
+        "name": "Nunu & Willump",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Boy and His Yeti",
+        "attackrange": 125,
+        "tags": [
+            "Tank",
+            "Fighter"
+        ]
+    },
+    "Olaf": {
+        "name": "Olaf",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Berserker",
+        "attackrange": 125,
+        "tags": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "Orianna": {
+        "name": "Orianna",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Lady of Clockwork",
+        "attackrange": 525,
+        "tags": [
+            "Mage",
+            "Support"
+        ]
+    },
+    "Ornn": {
+        "name": "Ornn",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "The Fire below the Mountain",
+        "attackrange": 175,
+        "tags": [
+            "Tank",
+            "Fighter"
+        ]
+    },
+    "Pantheon": {
+        "name": "Pantheon",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Unbreakable Spear",
+        "attackrange": 175,
+        "tags": [
+            "Fighter",
+            "Assassin"
+        ]
+    },
+    "Poppy": {
+        "name": "Poppy",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "Keeper of the Hammer",
+        "attackrange": 125,
+        "tags": [
+            "Tank",
+            "Fighter"
+        ]
+    },
+    "Pyke": {
+        "name": "Pyke",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Bloodharbor Ripper",
+        "attackrange": 150,
+        "tags": [
+            "Support",
+            "Assassin"
+        ]
+    },
+    "Qiyana": {
+        "name": "Qiyana",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "Empress of the Elements",
+        "attackrange": 150,
+        "tags": [
+            "Assassin",
+            "Fighter"
+        ]
+    },
+    "Quinn": {
+        "name": "Quinn",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "Demacia's Wings",
+        "attackrange": 525,
+        "tags": [
+            "Marksman",
+            "Assassin"
+        ]
+    },
+    "Rakan": {
+        "name": "Rakan",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "The Charmer",
+        "attackrange": 300,
+        "tags": [
+            "Support"
+        ]
+    },
+    "Rammus": {
+        "name": "Rammus",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Armordillo",
+        "attackrange": 125,
+        "tags": [
+            "Tank",
+            "Fighter"
+        ]
+    },
+    "RekSai": {
+        "name": "Rek'Sai",
+        "gender": "Unknown",
+        "partype": "Manaless",
+        "title": "the Void Burrower",
+        "attackrange": 175,
+        "tags": [
+            "Fighter"
+        ]
+    },
+    "Rell": {
+        "name": "Rell",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Iron Maiden",
+        "attackrange": 175,
+        "tags": [
+            "Tank",
+            "Support"
+        ]
+    },
+    "Renata": {
+        "name": "Renata Glasc",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Chem-Baroness",
+        "attackrange": 550,
+        "tags": [
+            "Support",
+            "Mage"
+        ]
+    },
+    "Renekton": {
+        "name": "Renekton",
+        "gender": "Unknown",
+        "partype": "Manaless",
+        "title": "the Butcher of the Sands",
+        "attackrange": 125,
+        "tags": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "Rengar": {
+        "name": "Rengar",
+        "gender": "Unknown",
+        "partype": "Manaless",
+        "title": "the Pridestalker",
+        "attackrange": 125,
+        "tags": [
+            "Assassin",
+            "Fighter"
+        ]
+    },
+    "Riven": {
+        "name": "Riven",
+        "gender": "Unknown",
+        "partype": "Manaless",
+        "title": "the Exile",
+        "attackrange": 125,
+        "tags": [
+            "Fighter",
+            "Assassin"
+        ]
+    },
+    "Rumble": {
+        "name": "Rumble",
+        "gender": "Unknown",
+        "partype": "Manaless",
+        "title": "the Mechanized Menace",
+        "attackrange": 125,
+        "tags": [
+            "Fighter",
+            "Mage"
+        ]
+    },
+    "Ryze": {
+        "name": "Ryze",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Rune Mage",
+        "attackrange": 550,
+        "tags": [
+            "Mage",
+            "Fighter"
+        ]
+    },
+    "Samira": {
+        "name": "Samira",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Desert Rose",
+        "attackrange": 500,
+        "tags": [
+            "Marksman"
+        ]
+    },
+    "Sejuani": {
+        "name": "Sejuani",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "Fury of the North",
+        "attackrange": 150,
+        "tags": [
+            "Tank",
+            "Fighter"
+        ]
+    },
+    "Senna": {
+        "name": "Senna",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Redeemer",
+        "attackrange": 600,
+        "tags": [
+            "Marksman",
+            "Support"
+        ]
+    },
+    "Seraphine": {
+        "name": "Seraphine",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Starry-Eyed Songstress",
+        "attackrange": 525,
+        "tags": [
+            "Mage",
+            "Support"
+        ]
+    },
+    "Sett": {
+        "name": "Sett",
+        "gender": "Unknown",
+        "partype": "Manaless",
+        "title": "the Boss",
+        "attackrange": 125,
+        "tags": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "Shaco": {
+        "name": "Shaco",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Demon Jester",
+        "attackrange": 125,
+        "tags": [
+            "Assassin"
+        ]
+    },
+    "Shen": {
+        "name": "Shen",
+        "gender": "Unknown",
+        "partype": "Energy",
+        "title": "the Eye of Twilight",
+        "attackrange": 125,
+        "tags": [
+            "Tank"
+        ]
+    },
+    "Shyvana": {
+        "name": "Shyvana",
+        "gender": "Unknown",
+        "partype": "Manaless",
+        "title": "the Half-Dragon",
+        "attackrange": 125,
+        "tags": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "Singed": {
+        "name": "Singed",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Mad Chemist",
+        "attackrange": 125,
+        "tags": [
+            "Tank",
+            "Fighter"
+        ]
+    },
+    "Sion": {
+        "name": "Sion",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "The Undead Juggernaut",
+        "attackrange": 175,
+        "tags": [
+            "Tank",
+            "Fighter"
+        ]
+    },
+    "Sivir": {
+        "name": "Sivir",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Battle Mistress",
+        "attackrange": 500,
+        "tags": [
+            "Marksman"
+        ]
+    },
+    "Skarner": {
+        "name": "Skarner",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Crystal Vanguard",
+        "attackrange": 125,
+        "tags": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "Sona": {
+        "name": "Sona",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "Maven of the Strings",
+        "attackrange": 550,
+        "tags": [
+            "Support",
+            "Mage"
+        ]
+    },
+    "Soraka": {
+        "name": "Soraka",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Starchild",
+        "attackrange": 550,
+        "tags": [
+            "Support",
+            "Mage"
+        ]
+    },
+    "Swain": {
+        "name": "Swain",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Noxian Grand General",
+        "attackrange": 525,
+        "tags": [
+            "Mage",
+            "Fighter"
+        ]
+    },
+    "Sylas": {
+        "name": "Sylas",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Unshackled",
+        "attackrange": 175,
+        "tags": [
+            "Mage",
+            "Assassin"
+        ]
+    },
+    "Syndra": {
+        "name": "Syndra",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Dark Sovereign",
+        "attackrange": 550,
+        "tags": [
+            "Mage"
+        ]
+    },
+    "TahmKench": {
+        "name": "Tahm Kench",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "The River King",
+        "attackrange": 175,
+        "tags": [
+            "Support",
+            "Tank"
+        ]
+    },
+    "Taliyah": {
+        "name": "Taliyah",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Stoneweaver",
+        "attackrange": 525,
+        "tags": [
+            "Mage",
+            "Support"
+        ]
+    },
+    "Talon": {
+        "name": "Talon",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Blade's Shadow",
+        "attackrange": 125,
+        "tags": [
+            "Assassin"
+        ]
+    },
+    "Taric": {
+        "name": "Taric",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Shield of Valoran",
+        "attackrange": 150,
+        "tags": [
+            "Support",
+            "Fighter"
+        ]
+    },
+    "Teemo": {
+        "name": "Teemo",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Swift Scout",
+        "attackrange": 500,
+        "tags": [
+            "Marksman",
+            "Assassin"
+        ]
+    },
+    "Thresh": {
+        "name": "Thresh",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Chain Warden",
+        "attackrange": 450,
+        "tags": [
+            "Support",
+            "Fighter"
+        ]
+    },
+    "Tristana": {
+        "name": "Tristana",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Yordle Gunner",
+        "attackrange": 525,
+        "tags": [
+            "Marksman",
+            "Assassin"
+        ]
+    },
+    "Trundle": {
+        "name": "Trundle",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Troll King",
+        "attackrange": 175,
+        "tags": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "Tryndamere": {
+        "name": "Tryndamere",
+        "gender": "Unknown",
+        "partype": "Manaless",
+        "title": "the Barbarian King",
+        "attackrange": 125,
+        "tags": [
+            "Fighter",
+            "Assassin"
+        ]
+    },
+    "TwistedFate": {
+        "name": "Twisted Fate",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Card Master",
+        "attackrange": 525,
+        "tags": [
+            "Mage"
+        ]
+    },
+    "Twitch": {
+        "name": "Twitch",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Plague Rat",
+        "attackrange": 550,
+        "tags": [
+            "Marksman",
+            "Assassin"
+        ]
+    },
+    "Udyr": {
+        "name": "Udyr",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Spirit Walker",
+        "attackrange": 125,
+        "tags": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "Urgot": {
+        "name": "Urgot",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Dreadnought",
+        "attackrange": 350,
+        "tags": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "Varus": {
+        "name": "Varus",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Arrow of Retribution",
+        "attackrange": 575,
+        "tags": [
+            "Marksman",
+            "Mage"
+        ]
+    },
+    "Vayne": {
+        "name": "Vayne",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Night Hunter",
+        "attackrange": 550,
+        "tags": [
+            "Marksman",
+            "Assassin"
+        ]
+    },
+    "Veigar": {
+        "name": "Veigar",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Tiny Master of Evil",
+        "attackrange": 550,
+        "tags": [
+            "Mage"
+        ]
+    },
+    "Velkoz": {
+        "name": "Vel'Koz",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Eye of the Void",
+        "attackrange": 525,
+        "tags": [
+            "Mage"
+        ]
+    },
+    "Vex": {
+        "name": "Vex",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Gloomist",
+        "attackrange": 550,
+        "tags": [
+            "Mage"
+        ]
+    },
+    "Vi": {
+        "name": "Vi",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Piltover Enforcer",
+        "attackrange": 125,
+        "tags": [
+            "Fighter",
+            "Assassin"
+        ]
+    },
+    "Viego": {
+        "name": "Viego",
+        "gender": "Unknown",
+        "partype": "Manaless",
+        "title": "The Ruined King",
+        "attackrange": 200,
+        "tags": [
+            "Assassin",
+            "Fighter"
+        ]
+    },
+    "Viktor": {
+        "name": "Viktor",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Machine Herald",
+        "attackrange": 525,
+        "tags": [
+            "Mage"
+        ]
+    },
+    "Vladimir": {
+        "name": "Vladimir",
+        "gender": "Unknown",
+        "partype": "Manaless",
+        "title": "the Crimson Reaper",
+        "attackrange": 450,
+        "tags": [
+            "Mage"
+        ]
+    },
+    "Volibear": {
+        "name": "Volibear",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Relentless Storm",
+        "attackrange": 150,
+        "tags": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "Warwick": {
+        "name": "Warwick",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Uncaged Wrath of Zaun",
+        "attackrange": 125,
+        "tags": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "Xayah": {
+        "name": "Xayah",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Rebel",
+        "attackrange": 525,
+        "tags": [
+            "Marksman"
+        ]
+    },
+    "Xerath": {
+        "name": "Xerath",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Magus Ascendant",
+        "attackrange": 525,
+        "tags": [
+            "Mage"
+        ]
+    },
+    "XinZhao": {
+        "name": "Xin Zhao",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Seneschal of Demacia",
+        "attackrange": 175,
+        "tags": [
+            "Fighter",
+            "Assassin"
+        ]
+    },
+    "Yasuo": {
+        "name": "Yasuo",
+        "gender": "Unknown",
+        "partype": "Manaless",
+        "title": "the Unforgiven",
+        "attackrange": 175,
+        "tags": [
+            "Fighter",
+            "Assassin"
+        ]
+    },
+    "Yone": {
+        "name": "Yone",
+        "gender": "Unknown",
+        "partype": "Manaless",
+        "title": "the Unforgotten",
+        "attackrange": 175,
+        "tags": [
+            "Assassin",
+            "Fighter"
+        ]
+    },
+    "Yorick": {
+        "name": "Yorick",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "Shepherd of Souls",
+        "attackrange": 175,
+        "tags": [
+            "Fighter",
+            "Tank"
+        ]
+    },
+    "Yuumi": {
+        "name": "Yuumi",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Magical Cat",
+        "attackrange": 425,
+        "tags": [
+            "Support",
+            "Mage"
+        ]
+    },
+    "Zac": {
+        "name": "Zac",
+        "gender": "Unknown",
+        "partype": "Manaless",
+        "title": "the Secret Weapon",
+        "attackrange": 175,
+        "tags": [
+            "Tank",
+            "Fighter"
+        ]
+    },
+    "Zed": {
+        "name": "Zed",
+        "gender": "Unknown",
+        "partype": "Energy",
+        "title": "the Master of Shadows",
+        "attackrange": 125,
+        "tags": [
+            "Assassin"
+        ]
+    },
+    "Zeri": {
+        "name": "Zeri",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "The Spark of Zaun",
+        "attackrange": 500,
+        "tags": [
+            "Marksman"
+        ]
+    },
+    "Ziggs": {
+        "name": "Ziggs",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Hexplosives Expert",
+        "attackrange": 550,
+        "tags": [
+            "Mage"
+        ]
+    },
+    "Zilean": {
+        "name": "Zilean",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Chronokeeper",
+        "attackrange": 550,
+        "tags": [
+            "Support",
+            "Mage"
+        ]
+    },
+    "Zoe": {
+        "name": "Zoe",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "the Aspect of Twilight",
+        "attackrange": 550,
+        "tags": [
+            "Mage",
+            "Support"
+        ]
+    },
+    "Zyra": {
+        "name": "Zyra",
+        "gender": "Unknown",
+        "partype": "Mana",
+        "title": "Rise of the Thorns",
+        "attackrange": 575,
+        "tags": [
+            "Mage",
+            "Support"
+        ]
+    }
+}
