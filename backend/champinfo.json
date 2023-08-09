@@ -429,7 +429,7 @@
     },
     "Hecarim": {
         "name": "Hecarim",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Shadow of War",
         "attackrange": 175,
@@ -440,7 +440,7 @@
     },
     "Heimerdinger": {
         "name": "Heimerdinger",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Revered Inventor",
         "attackrange": 550,
@@ -451,7 +451,7 @@
     },
     "Illaoi": {
         "name": "Illaoi",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Kraken Priestess",
         "attackrange": 125,
@@ -462,7 +462,7 @@
     },
     "Irelia": {
         "name": "Irelia",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Blade Dancer",
         "attackrange": 200,
@@ -473,7 +473,7 @@
     },
     "Ivern": {
         "name": "Ivern",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Green Father",
         "attackrange": 475,
@@ -484,7 +484,7 @@
     },
     "Janna": {
         "name": "Janna",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Storm's Fury",
         "attackrange": 500,
@@ -495,7 +495,7 @@
     },
     "JarvanIV": {
         "name": "Jarvan IV",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Exemplar of Demacia",
         "attackrange": 175,
@@ -506,7 +506,7 @@
     },
     "Jax": {
         "name": "Jax",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "Grandmaster at Arms",
         "attackrange": 125,
@@ -517,7 +517,7 @@
     },
     "Jayce": {
         "name": "Jayce",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Defender of Tomorrow",
         "attackrange": 125,
@@ -528,7 +528,7 @@
     },
     "Jhin": {
         "name": "Jhin",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Virtuoso",
         "attackrange": 550,
@@ -539,7 +539,7 @@
     },
     "Jinx": {
         "name": "Jinx",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Loose Cannon",
         "attackrange": 525,
@@ -549,7 +549,7 @@
     },
     "Kaisa": {
         "name": "Kai'Sa",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "Daughter of the Void",
         "attackrange": 525,
@@ -559,7 +559,7 @@
     },
     "Kalista": {
         "name": "Kalista",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Spear of Vengeance",
         "attackrange": 525,
@@ -569,7 +569,7 @@
     },
     "Karma": {
         "name": "Karma",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Enlightened One",
         "attackrange": 525,
@@ -580,7 +580,7 @@
     },
     "Karthus": {
         "name": "Karthus",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Deathsinger",
         "attackrange": 450,
@@ -590,7 +590,7 @@
     },
     "Kassadin": {
         "name": "Kassadin",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Void Walker",
         "attackrange": 150,
@@ -601,7 +601,7 @@
     },
     "Katarina": {
         "name": "Katarina",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Manaless",
         "title": "the Sinister Blade",
         "attackrange": 125,
@@ -612,7 +612,7 @@
     },
     "Kayle": {
         "name": "Kayle",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Righteous",
         "attackrange": 175,
@@ -623,7 +623,7 @@
     },
     "Kayn": {
         "name": "Kayn",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Shadow Reaper",
         "attackrange": 175,
@@ -634,7 +634,7 @@
     },
     "Kennen": {
         "name": "Kennen",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Energy",
         "title": "the Heart of the Tempest",
         "attackrange": 550,
@@ -645,7 +645,7 @@
     },
     "Khazix": {
         "name": "Kha'Zix",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Voidreaver",
         "attackrange": 125,
@@ -655,7 +655,7 @@
     },
     "Kindred": {
         "name": "Kindred",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "The Eternal Hunters",
         "attackrange": 500,
@@ -665,7 +665,7 @@
     },
     "Kled": {
         "name": "Kled",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Manaless",
         "title": "the Cantankerous Cavalier",
         "attackrange": 125,
@@ -676,7 +676,7 @@
     },
     "KogMaw": {
         "name": "Kog'Maw",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Mouth of the Abyss",
         "attackrange": 500,
@@ -687,7 +687,7 @@
     },
     "KSante": {
         "name": "K'Sante",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Pride of Nazumah",
         "attackrange": 175,
@@ -698,7 +698,7 @@
     },
     "Leblanc": {
         "name": "LeBlanc",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Deceiver",
         "attackrange": 525,
@@ -709,7 +709,7 @@
     },
     "LeeSin": {
         "name": "Lee Sin",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Energy",
         "title": "the Blind Monk",
         "attackrange": 125,
@@ -720,7 +720,7 @@
     },
     "Leona": {
         "name": "Leona",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Radiant Dawn",
         "attackrange": 125,
@@ -731,7 +731,7 @@
     },
     "Lillia": {
         "name": "Lillia",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Bashful Bloom",
         "attackrange": 325,
@@ -742,7 +742,7 @@
     },
     "Lissandra": {
         "name": "Lissandra",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Ice Witch",
         "attackrange": 550,
@@ -752,7 +752,7 @@
     },
     "Lucian": {
         "name": "Lucian",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Purifier",
         "attackrange": 500,
@@ -762,7 +762,7 @@
     },
     "Lulu": {
         "name": "Lulu",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Fae Sorceress",
         "attackrange": 550,
@@ -773,7 +773,7 @@
     },
     "Lux": {
         "name": "Lux",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Lady of Luminosity",
         "attackrange": 550,
@@ -784,7 +784,7 @@
     },
     "Malphite": {
         "name": "Malphite",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "Shard of the Monolith",
         "attackrange": 125,
@@ -795,7 +795,7 @@
     },
     "Malzahar": {
         "name": "Malzahar",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Prophet of the Void",
         "attackrange": 500,
@@ -806,7 +806,7 @@
     },
     "Maokai": {
         "name": "Maokai",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Twisted Treant",
         "attackrange": 125,
@@ -817,7 +817,7 @@
     },
     "MasterYi": {
         "name": "Master Yi",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Wuju Bladesman",
         "attackrange": 175,
@@ -828,7 +828,7 @@
     },
     "Milio": {
         "name": "Milio",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "The Gentle Flame",
         "attackrange": 525,
@@ -838,7 +838,7 @@
     },
     "MissFortune": {
         "name": "Miss Fortune",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Bounty Hunter",
         "attackrange": 550,
@@ -848,7 +848,7 @@
     },
     "MonkeyKing": {
         "name": "Wukong",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Monkey King",
         "attackrange": 175,
@@ -859,7 +859,7 @@
     },
     "Mordekaiser": {
         "name": "Mordekaiser",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Manaless",
         "title": "the Iron Revenant",
         "attackrange": 175,
@@ -869,7 +869,7 @@
     },
     "Morgana": {
         "name": "Morgana",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Fallen",
         "attackrange": 450,
@@ -880,7 +880,7 @@
     },
     "Naafiri": {
         "name": "Naafiri",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Hound of a Hundred Bites",
         "attackrange": 125,
@@ -890,7 +890,7 @@
     },
     "Nami": {
         "name": "Nami",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Tidecaller",
         "attackrange": 550,
@@ -901,7 +901,7 @@
     },
     "Nasus": {
         "name": "Nasus",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Curator of the Sands",
         "attackrange": 125,
@@ -912,7 +912,7 @@
     },
     "Nautilus": {
         "name": "Nautilus",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Titan of the Depths",
         "attackrange": 175,
@@ -923,7 +923,7 @@
     },
     "Neeko": {
         "name": "Neeko",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Curious Chameleon",
         "attackrange": 550,
@@ -934,7 +934,7 @@
     },
     "Nidalee": {
         "name": "Nidalee",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Bestial Huntress",
         "attackrange": 525,
@@ -945,7 +945,7 @@
     },
     "Nilah": {
         "name": "Nilah",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Joy Unbound",
         "attackrange": 225,
@@ -956,7 +956,7 @@
     },
     "Nocturne": {
         "name": "Nocturne",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Eternal Nightmare",
         "attackrange": 125,
@@ -967,7 +967,7 @@
     },
     "Nunu": {
         "name": "Nunu & Willump",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Boy and His Yeti",
         "attackrange": 125,
@@ -978,7 +978,7 @@
     },
     "Olaf": {
         "name": "Olaf",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Berserker",
         "attackrange": 125,
@@ -989,7 +989,7 @@
     },
     "Orianna": {
         "name": "Orianna",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Lady of Clockwork",
         "attackrange": 525,
@@ -1000,7 +1000,7 @@
     },
     "Ornn": {
         "name": "Ornn",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "The Fire below the Mountain",
         "attackrange": 175,
@@ -1011,7 +1011,7 @@
     },
     "Pantheon": {
         "name": "Pantheon",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Unbreakable Spear",
         "attackrange": 175,
@@ -1022,7 +1022,7 @@
     },
     "Poppy": {
         "name": "Poppy",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "Keeper of the Hammer",
         "attackrange": 125,
@@ -1033,7 +1033,7 @@
     },
     "Pyke": {
         "name": "Pyke",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Bloodharbor Ripper",
         "attackrange": 150,
@@ -1044,7 +1044,7 @@
     },
     "Qiyana": {
         "name": "Qiyana",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "Empress of the Elements",
         "attackrange": 150,
@@ -1055,7 +1055,7 @@
     },
     "Quinn": {
         "name": "Quinn",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "Demacia's Wings",
         "attackrange": 525,
@@ -1066,7 +1066,7 @@
     },
     "Rakan": {
         "name": "Rakan",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "The Charmer",
         "attackrange": 300,
@@ -1076,7 +1076,7 @@
     },
     "Rammus": {
         "name": "Rammus",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Armordillo",
         "attackrange": 125,
@@ -1087,7 +1087,7 @@
     },
     "RekSai": {
         "name": "Rek'Sai",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Manaless",
         "title": "the Void Burrower",
         "attackrange": 175,
@@ -1097,7 +1097,7 @@
     },
     "Rell": {
         "name": "Rell",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Iron Maiden",
         "attackrange": 175,
@@ -1108,7 +1108,7 @@
     },
     "Renata": {
         "name": "Renata Glasc",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Chem-Baroness",
         "attackrange": 550,
@@ -1119,7 +1119,7 @@
     },
     "Renekton": {
         "name": "Renekton",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Manaless",
         "title": "the Butcher of the Sands",
         "attackrange": 125,
@@ -1130,7 +1130,7 @@
     },
     "Rengar": {
         "name": "Rengar",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Manaless",
         "title": "the Pridestalker",
         "attackrange": 125,
@@ -1141,7 +1141,7 @@
     },
     "Riven": {
         "name": "Riven",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Manaless",
         "title": "the Exile",
         "attackrange": 125,
@@ -1152,7 +1152,7 @@
     },
     "Rumble": {
         "name": "Rumble",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Manaless",
         "title": "the Mechanized Menace",
         "attackrange": 125,
@@ -1163,7 +1163,7 @@
     },
     "Ryze": {
         "name": "Ryze",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Rune Mage",
         "attackrange": 550,
@@ -1174,7 +1174,7 @@
     },
     "Samira": {
         "name": "Samira",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Desert Rose",
         "attackrange": 500,
@@ -1184,7 +1184,7 @@
     },
     "Sejuani": {
         "name": "Sejuani",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "Fury of the North",
         "attackrange": 150,
@@ -1195,7 +1195,7 @@
     },
     "Senna": {
         "name": "Senna",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Redeemer",
         "attackrange": 600,
@@ -1206,7 +1206,7 @@
     },
     "Seraphine": {
         "name": "Seraphine",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Starry-Eyed Songstress",
         "attackrange": 525,
@@ -1217,7 +1217,7 @@
     },
     "Sett": {
         "name": "Sett",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Manaless",
         "title": "the Boss",
         "attackrange": 125,
@@ -1228,7 +1228,7 @@
     },
     "Shaco": {
         "name": "Shaco",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Demon Jester",
         "attackrange": 125,
@@ -1238,7 +1238,7 @@
     },
     "Shen": {
         "name": "Shen",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Energy",
         "title": "the Eye of Twilight",
         "attackrange": 125,
@@ -1248,7 +1248,7 @@
     },
     "Shyvana": {
         "name": "Shyvana",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Manaless",
         "title": "the Half-Dragon",
         "attackrange": 125,
@@ -1259,7 +1259,7 @@
     },
     "Singed": {
         "name": "Singed",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Mad Chemist",
         "attackrange": 125,
@@ -1270,7 +1270,7 @@
     },
     "Sion": {
         "name": "Sion",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "The Undead Juggernaut",
         "attackrange": 175,
@@ -1281,7 +1281,7 @@
     },
     "Sivir": {
         "name": "Sivir",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Battle Mistress",
         "attackrange": 500,
@@ -1291,7 +1291,7 @@
     },
     "Skarner": {
         "name": "Skarner",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Crystal Vanguard",
         "attackrange": 125,
@@ -1302,7 +1302,7 @@
     },
     "Sona": {
         "name": "Sona",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "Maven of the Strings",
         "attackrange": 550,
@@ -1313,7 +1313,7 @@
     },
     "Soraka": {
         "name": "Soraka",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Starchild",
         "attackrange": 550,
@@ -1324,7 +1324,7 @@
     },
     "Swain": {
         "name": "Swain",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Noxian Grand General",
         "attackrange": 525,
@@ -1335,7 +1335,7 @@
     },
     "Sylas": {
         "name": "Sylas",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Unshackled",
         "attackrange": 175,
@@ -1346,7 +1346,7 @@
     },
     "Syndra": {
         "name": "Syndra",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Dark Sovereign",
         "attackrange": 550,
@@ -1356,7 +1356,7 @@
     },
     "TahmKench": {
         "name": "Tahm Kench",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "The River King",
         "attackrange": 175,
@@ -1367,7 +1367,7 @@
     },
     "Taliyah": {
         "name": "Taliyah",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Stoneweaver",
         "attackrange": 525,
@@ -1378,7 +1378,7 @@
     },
     "Talon": {
         "name": "Talon",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Blade's Shadow",
         "attackrange": 125,
@@ -1388,7 +1388,7 @@
     },
     "Taric": {
         "name": "Taric",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Shield of Valoran",
         "attackrange": 150,
@@ -1399,7 +1399,7 @@
     },
     "Teemo": {
         "name": "Teemo",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Swift Scout",
         "attackrange": 500,
@@ -1410,7 +1410,7 @@
     },
     "Thresh": {
         "name": "Thresh",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Chain Warden",
         "attackrange": 450,
@@ -1421,7 +1421,7 @@
     },
     "Tristana": {
         "name": "Tristana",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Yordle Gunner",
         "attackrange": 525,
@@ -1432,7 +1432,7 @@
     },
     "Trundle": {
         "name": "Trundle",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Troll King",
         "attackrange": 175,
@@ -1443,7 +1443,7 @@
     },
     "Tryndamere": {
         "name": "Tryndamere",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Manaless",
         "title": "the Barbarian King",
         "attackrange": 125,
@@ -1454,7 +1454,7 @@
     },
     "TwistedFate": {
         "name": "Twisted Fate",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Card Master",
         "attackrange": 525,
@@ -1464,7 +1464,7 @@
     },
     "Twitch": {
         "name": "Twitch",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Plague Rat",
         "attackrange": 550,
@@ -1475,7 +1475,7 @@
     },
     "Udyr": {
         "name": "Udyr",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Spirit Walker",
         "attackrange": 125,
@@ -1486,7 +1486,7 @@
     },
     "Urgot": {
         "name": "Urgot",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Dreadnought",
         "attackrange": 350,
@@ -1497,7 +1497,7 @@
     },
     "Varus": {
         "name": "Varus",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Arrow of Retribution",
         "attackrange": 575,
@@ -1508,7 +1508,7 @@
     },
     "Vayne": {
         "name": "Vayne",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Night Hunter",
         "attackrange": 550,
@@ -1519,7 +1519,7 @@
     },
     "Veigar": {
         "name": "Veigar",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Tiny Master of Evil",
         "attackrange": 550,
@@ -1529,7 +1529,7 @@
     },
     "Velkoz": {
         "name": "Vel'Koz",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Eye of the Void",
         "attackrange": 525,
@@ -1539,7 +1539,7 @@
     },
     "Vex": {
         "name": "Vex",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Gloomist",
         "attackrange": 550,
@@ -1549,7 +1549,7 @@
     },
     "Vi": {
         "name": "Vi",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Piltover Enforcer",
         "attackrange": 125,
@@ -1560,7 +1560,7 @@
     },
     "Viego": {
         "name": "Viego",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Manaless",
         "title": "The Ruined King",
         "attackrange": 200,
@@ -1571,7 +1571,7 @@
     },
     "Viktor": {
         "name": "Viktor",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Machine Herald",
         "attackrange": 525,
@@ -1581,7 +1581,7 @@
     },
     "Vladimir": {
         "name": "Vladimir",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Manaless",
         "title": "the Crimson Reaper",
         "attackrange": 450,
@@ -1591,7 +1591,7 @@
     },
     "Volibear": {
         "name": "Volibear",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Relentless Storm",
         "attackrange": 150,
@@ -1602,7 +1602,7 @@
     },
     "Warwick": {
         "name": "Warwick",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Uncaged Wrath of Zaun",
         "attackrange": 125,
@@ -1613,7 +1613,7 @@
     },
     "Xayah": {
         "name": "Xayah",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Rebel",
         "attackrange": 525,
@@ -1623,7 +1623,7 @@
     },
     "Xerath": {
         "name": "Xerath",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Magus Ascendant",
         "attackrange": 525,
@@ -1633,7 +1633,7 @@
     },
     "XinZhao": {
         "name": "Xin Zhao",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Seneschal of Demacia",
         "attackrange": 175,
@@ -1644,7 +1644,7 @@
     },
     "Yasuo": {
         "name": "Yasuo",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Manaless",
         "title": "the Unforgiven",
         "attackrange": 175,
@@ -1655,7 +1655,7 @@
     },
     "Yone": {
         "name": "Yone",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Manaless",
         "title": "the Unforgotten",
         "attackrange": 175,
@@ -1666,7 +1666,7 @@
     },
     "Yorick": {
         "name": "Yorick",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "Shepherd of Souls",
         "attackrange": 175,
@@ -1677,7 +1677,7 @@
     },
     "Yuumi": {
         "name": "Yuumi",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Magical Cat",
         "attackrange": 425,
@@ -1688,7 +1688,7 @@
     },
     "Zac": {
         "name": "Zac",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Manaless",
         "title": "the Secret Weapon",
         "attackrange": 175,
@@ -1699,7 +1699,7 @@
     },
     "Zed": {
         "name": "Zed",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Energy",
         "title": "the Master of Shadows",
         "attackrange": 125,
@@ -1709,7 +1709,7 @@
     },
     "Zeri": {
         "name": "Zeri",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "The Spark of Zaun",
         "attackrange": 500,
@@ -1719,7 +1719,7 @@
     },
     "Ziggs": {
         "name": "Ziggs",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Hexplosives Expert",
         "attackrange": 550,
@@ -1729,7 +1729,7 @@
     },
     "Zilean": {
         "name": "Zilean",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Chronokeeper",
         "attackrange": 550,
@@ -1740,7 +1740,7 @@
     },
     "Zoe": {
         "name": "Zoe",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Aspect of Twilight",
         "attackrange": 550,
@@ -1751,7 +1751,7 @@
     },
     "Zyra": {
         "name": "Zyra",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "Rise of the Thorns",
         "attackrange": 575,
