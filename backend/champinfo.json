@@ -1,7 +1,7 @@
 {
     "Aatrox": {
         "name": "Aatrox",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Manaless",
         "title": "the Darkin Blade",
         "attackrange": 175,
@@ -12,7 +12,7 @@
     },
     "Ahri": {
         "name": "Ahri",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Nine-Tailed Fox",
         "attackrange": 550,
@@ -23,7 +23,7 @@
     },
     "Akali": {
         "name": "Akali",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Energy",
         "title": "the Rogue Assassin",
         "attackrange": 125,
@@ -33,7 +33,7 @@
     },
     "Akshan": {
         "name": "Akshan",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Rogue Sentinel",
         "attackrange": 500,
@@ -44,7 +44,7 @@
     },
     "Alistar": {
         "name": "Alistar",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Minotaur",
         "attackrange": 125,
@@ -55,7 +55,7 @@
     },
     "Amumu": {
         "name": "Amumu",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Sad Mummy",
         "attackrange": 125,
@@ -66,7 +66,7 @@
     },
     "Anivia": {
         "name": "Anivia",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Cryophoenix",
         "attackrange": 600,
@@ -77,7 +77,7 @@
     },
     "Annie": {
         "name": "Annie",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Dark Child",
         "attackrange": 625,
@@ -87,7 +87,7 @@
     },
     "Aphelios": {
         "name": "Aphelios",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Weapon of the Faithful",
         "attackrange": 550,
@@ -97,7 +97,7 @@
     },
     "Ashe": {
         "name": "Ashe",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Frost Archer",
         "attackrange": 600,
@@ -108,7 +108,7 @@
     },
     "AurelionSol": {
         "name": "Aurelion Sol",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "The Star Forger",
         "attackrange": 550,
@@ -118,7 +118,7 @@
     },
     "Azir": {
         "name": "Azir",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Emperor of the Sands",
         "attackrange": 525,
@@ -129,7 +129,7 @@
     },
     "Bard": {
         "name": "Bard",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Wandering Caretaker",
         "attackrange": 500,
@@ -140,7 +140,7 @@
     },
     "Belveth": {
         "name": "Bel'Veth",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Manaless",
         "title": "the Empress of the Void",
         "attackrange": 175,
@@ -150,7 +150,7 @@
     },
     "Blitzcrank": {
         "name": "Blitzcrank",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Great Steam Golem",
         "attackrange": 125,
@@ -161,7 +161,7 @@
     },
     "Brand": {
         "name": "Brand",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Burning Vengeance",
         "attackrange": 550,
@@ -171,7 +171,7 @@
     },
     "Braum": {
         "name": "Braum",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Heart of the Freljord",
         "attackrange": 125,
@@ -182,7 +182,7 @@
     },
     "Caitlyn": {
         "name": "Caitlyn",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Sheriff of Piltover",
         "attackrange": 650,
@@ -192,7 +192,7 @@
     },
     "Camille": {
         "name": "Camille",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Steel Shadow",
         "attackrange": 125,
@@ -203,7 +203,7 @@
     },
     "Cassiopeia": {
         "name": "Cassiopeia",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Serpent's Embrace",
         "attackrange": 550,
@@ -213,7 +213,7 @@
     },
     "Chogath": {
         "name": "Cho'Gath",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Terror of the Void",
         "attackrange": 125,
@@ -224,7 +224,7 @@
     },
     "Corki": {
         "name": "Corki",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Daring Bombardier",
         "attackrange": 550,
@@ -234,7 +234,7 @@
     },
     "Darius": {
         "name": "Darius",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Hand of Noxus",
         "attackrange": 175,
@@ -245,7 +245,7 @@
     },
     "Diana": {
         "name": "Diana",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "Scorn of the Moon",
         "attackrange": 150,
@@ -256,7 +256,7 @@
     },
     "Draven": {
         "name": "Draven",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Glorious Executioner",
         "attackrange": 550,
@@ -266,7 +266,7 @@
     },
     "DrMundo": {
         "name": "Dr. Mundo",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Manaless",
         "title": "the Madman of Zaun",
         "attackrange": 125,
@@ -277,7 +277,7 @@
     },
     "Ekko": {
         "name": "Ekko",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Boy Who Shattered Time",
         "attackrange": 125,
@@ -288,7 +288,7 @@
     },
     "Elise": {
         "name": "Elise",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Spider Queen",
         "attackrange": 550,
@@ -299,7 +299,7 @@
     },
     "Evelynn": {
         "name": "Evelynn",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "Agony's Embrace",
         "attackrange": 125,
@@ -310,7 +310,7 @@
     },
     "Ezreal": {
         "name": "Ezreal",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Prodigal Explorer",
         "attackrange": 550,
@@ -321,7 +321,7 @@
     },
     "Fiddlesticks": {
         "name": "Fiddlesticks",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Ancient Fear",
         "attackrange": 480,
@@ -332,7 +332,7 @@
     },
     "Fiora": {
         "name": "Fiora",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "the Grand Duelist",
         "attackrange": 150,
@@ -343,7 +343,7 @@
     },
     "Fizz": {
         "name": "Fizz",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Tidal Trickster",
         "attackrange": 175,
@@ -354,7 +354,7 @@
     },
     "Galio": {
         "name": "Galio",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Colossus",
         "attackrange": 150,
@@ -365,7 +365,7 @@
     },
     "Gangplank": {
         "name": "Gangplank",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Saltwater Scourge",
         "attackrange": 125,
@@ -375,7 +375,7 @@
     },
     "Garen": {
         "name": "Garen",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Manaless",
         "title": "The Might of Demacia",
         "attackrange": 175,
@@ -386,7 +386,7 @@
     },
     "Gnar": {
         "name": "Gnar",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Manaless",
         "title": "the Missing Link",
         "attackrange": 175,
@@ -397,7 +397,7 @@
     },
     "Gragas": {
         "name": "Gragas",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Rabble Rouser",
         "attackrange": 125,
@@ -408,7 +408,7 @@
     },
     "Graves": {
         "name": "Graves",
-        "gender": "Unknown",
+        "gender": "Male",
         "partype": "Mana",
         "title": "the Outlaw",
         "attackrange": 425,
@@ -418,7 +418,7 @@
     },
     "Gwen": {
         "name": "Gwen",
-        "gender": "Unknown",
+        "gender": "Female",
         "partype": "Mana",
         "title": "The Hallowed Seamstress",
         "attackrange": 150,
