@@ -457,5 +457,3 @@ def quiz(champions, questions):
         quiz(champions=champions, questions=questions)
     else:
         exit()
-
-print(quiz(champions=champions, questions=questions))
