@@ -8,7 +8,13 @@
         "tags": [
             "Fighter",
             "Tank"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Others",
+        "IsDarkin": true,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Top"
     },
     "Ahri": {
         "name": "Ahri",
@@ -19,7 +25,13 @@
         "tags": [
             "Mage",
             "Assassin"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Ionia",
+        "IsDarkin": false,
+        "IsVastaya": true,
+        "canTransform": false,
+        "Role": "Mid"
     },
     "Akali": {
         "name": "Akali",
@@ -29,7 +41,13 @@
         "attackrange": 125,
         "tags": [
             "Assassin"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Ionia",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Mid"
     },
     "Akshan": {
         "name": "Akshan",
@@ -40,7 +58,13 @@
         "tags": [
             "Marksman",
             "Assassin"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Shurima",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Mid"
     },
     "Alistar": {
         "name": "Alistar",
@@ -51,7 +75,13 @@
         "tags": [
             "Tank",
             "Support"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Others",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Support"
     },
     "Amumu": {
         "name": "Amumu",
@@ -62,7 +92,13 @@
         "tags": [
             "Tank",
             "Mage"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Shurima",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Jungle"
     },
     "Anivia": {
         "name": "Anivia",
@@ -73,7 +109,13 @@
         "tags": [
             "Mage",
             "Support"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Freljord",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Mid"
     },
     "Annie": {
         "name": "Annie",
@@ -83,7 +125,13 @@
         "attackrange": 625,
         "tags": [
             "Mage"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Others",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Mid"
     },
     "Aphelios": {
         "name": "Aphelios",
@@ -93,7 +141,13 @@
         "attackrange": 550,
         "tags": [
             "Marksman"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Targon",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "ADC"
     },
     "Ashe": {
         "name": "Ashe",
@@ -104,7 +158,13 @@
         "tags": [
             "Marksman",
             "Support"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Freljord",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "ADC"
     },
     "AurelionSol": {
         "name": "Aurelion Sol",
@@ -114,7 +174,13 @@
         "attackrange": 550,
         "tags": [
             "Mage"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Targon",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Mid"
     },
     "Azir": {
         "name": "Azir",
@@ -125,7 +191,13 @@
         "tags": [
             "Mage",
             "Marksman"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Shurima",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Mid"
     },
     "Bard": {
         "name": "Bard",
@@ -136,7 +208,13 @@
         "tags": [
             "Support",
             "Mage"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Others",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Support"
     },
     "Belveth": {
         "name": "Bel'Veth",
@@ -146,7 +224,13 @@
         "attackrange": 175,
         "tags": [
             "Fighter"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Void",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Jungle"
     },
     "Blitzcrank": {
         "name": "Blitzcrank",
@@ -157,7 +241,13 @@
         "tags": [
             "Tank",
             "Fighter"
-        ]
+        ],
+        "Source": "Depends",
+        "Location": "Zaun",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Support"
     },
     "Brand": {
         "name": "Brand",
@@ -167,7 +257,13 @@
         "attackrange": 550,
         "tags": [
             "Mage"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Others",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Support"
     },
     "Braum": {
         "name": "Braum",
@@ -178,7 +274,13 @@
         "tags": [
             "Support",
             "Tank"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Freljord",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Support"
     },
     "Caitlyn": {
         "name": "Caitlyn",
@@ -188,7 +290,13 @@
         "attackrange": 650,
         "tags": [
             "Marksman"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Piltover",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "ADC"
     },
     "Camille": {
         "name": "Camille",
@@ -199,7 +307,13 @@
         "tags": [
             "Fighter",
             "Tank"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Piltover",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Top"
     },
     "Cassiopeia": {
         "name": "Cassiopeia",
@@ -209,7 +323,13 @@
         "attackrange": 550,
         "tags": [
             "Mage"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Noxus",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Mid"
     },
     "Chogath": {
         "name": "Cho'Gath",
@@ -220,7 +340,13 @@
         "tags": [
             "Tank",
             "Mage"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Void",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Top"
     },
     "Corki": {
         "name": "Corki",
@@ -230,7 +356,13 @@
         "attackrange": 550,
         "tags": [
             "Marksman"
-        ]
+        ],
+        "Source": "Depends",
+        "Location": "Bandle City",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Mid"
     },
     "Darius": {
         "name": "Darius",
@@ -241,7 +373,13 @@
         "tags": [
             "Fighter",
             "Tank"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Noxus",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Top"
     },
     "Diana": {
         "name": "Diana",
@@ -252,7 +390,13 @@
         "tags": [
             "Fighter",
             "Mage"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Targon",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Jungle"
     },
     "Draven": {
         "name": "Draven",
@@ -262,7 +406,13 @@
         "attackrange": 550,
         "tags": [
             "Marksman"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Noxus",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "ADC"
     },
     "DrMundo": {
         "name": "Dr. Mundo",
@@ -273,7 +423,13 @@
         "tags": [
             "Fighter",
             "Tank"
-        ]
+        ],
+        "Source": "Depends",
+        "Location": "Zaun",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Top"
     },
     "Ekko": {
         "name": "Ekko",
@@ -284,7 +440,13 @@
         "tags": [
             "Assassin",
             "Fighter"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Zaun",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Mid"
     },
     "Elise": {
         "name": "Elise",
@@ -295,7 +457,13 @@
         "tags": [
             "Mage",
             "Fighter"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Shadow Isles",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": true,
+        "Role": "Jungle"
     },
     "Evelynn": {
         "name": "Evelynn",
@@ -306,7 +474,13 @@
         "tags": [
             "Assassin",
             "Mage"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Others",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Jungle"
     },
     "Ezreal": {
         "name": "Ezreal",
@@ -317,7 +491,13 @@
         "tags": [
             "Marksman",
             "Mage"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Piltover",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "ADC"
     },
     "Fiddlesticks": {
         "name": "Fiddlesticks",
@@ -328,7 +508,13 @@
         "tags": [
             "Mage",
             "Support"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Others",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Jungle"
     },
     "Fiora": {
         "name": "Fiora",
@@ -339,7 +525,13 @@
         "tags": [
             "Fighter",
             "Assassin"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Demacia",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Top"
     },
     "Fizz": {
         "name": "Fizz",
@@ -350,7 +542,13 @@
         "tags": [
             "Assassin",
             "Fighter"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Bilgewater",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Mid"
     },
     "Galio": {
         "name": "Galio",
@@ -361,7 +559,13 @@
         "tags": [
             "Tank",
             "Mage"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Demacia",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Mid"
     },
     "Gangplank": {
         "name": "Gangplank",
@@ -371,7 +575,13 @@
         "attackrange": 125,
         "tags": [
             "Fighter"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Bilgewater",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Top"
     },
     "Garen": {
         "name": "Garen",
@@ -382,7 +592,13 @@
         "tags": [
             "Fighter",
             "Tank"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Demacia",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Top"
     },
     "Gnar": {
         "name": "Gnar",
@@ -393,7 +609,13 @@
         "tags": [
             "Fighter",
             "Tank"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Freljord",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": true,
+        "Role": "Top"
     },
     "Gragas": {
         "name": "Gragas",
@@ -404,7 +626,13 @@
         "tags": [
             "Fighter",
             "Mage"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Freljord",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Jungle"
     },
     "Graves": {
         "name": "Graves",
@@ -414,7 +642,13 @@
         "attackrange": 425,
         "tags": [
             "Marksman"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Bilgewater",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Jungle"
     },
     "Gwen": {
         "name": "Gwen",
@@ -425,7 +659,13 @@
         "tags": [
             "Fighter",
             "Assassin"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Shadow Isles",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Top"
     },
     "Hecarim": {
         "name": "Hecarim",
@@ -436,7 +676,13 @@
         "tags": [
             "Fighter",
             "Tank"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Shadow Isles",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Jungle"
     },
     "Heimerdinger": {
         "name": "Heimerdinger",
@@ -447,7 +693,13 @@
         "tags": [
             "Mage",
             "Support"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Piltover",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Mid"
     },
     "Illaoi": {
         "name": "Illaoi",
@@ -458,7 +710,13 @@
         "tags": [
             "Fighter",
             "Tank"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Bilgewater",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Top"
     },
     "Irelia": {
         "name": "Irelia",
@@ -469,7 +727,13 @@
         "tags": [
             "Fighter",
             "Assassin"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Ionia",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Top"
     },
     "Ivern": {
         "name": "Ivern",
@@ -480,7 +744,13 @@
         "tags": [
             "Support",
             "Mage"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Ionia",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Jungle"
     },
     "Janna": {
         "name": "Janna",
@@ -491,9 +761,15 @@
         "tags": [
             "Support",
             "Mage"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Zaun",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Support"
     },
-    "JarvanIV": {
+    "Jarvan IV": {
         "name": "Jarvan IV",
         "gender": "Male",
         "partype": "Mana",
@@ -502,7 +778,13 @@
         "tags": [
             "Tank",
             "Fighter"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Demacia",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Jungle"
     },
     "Jax": {
         "name": "Jax",
@@ -513,7 +795,13 @@
         "tags": [
             "Fighter",
             "Assassin"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Others",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Top"
     },
     "Jayce": {
         "name": "Jayce",
@@ -524,7 +812,13 @@
         "tags": [
             "Fighter",
             "Marksman"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Piltover",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": true,
+        "Role": "Top"
     },
     "Jhin": {
         "name": "Jhin",
@@ -535,7 +829,13 @@
         "tags": [
             "Marksman",
             "Mage"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Ionia",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "ADC"
     },
     "Jinx": {
         "name": "Jinx",
@@ -545,7 +845,13 @@
         "attackrange": 525,
         "tags": [
             "Marksman"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Zaun",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "ADC"
     },
     "Kaisa": {
         "name": "Kai'Sa",
@@ -555,7 +861,13 @@
         "attackrange": 525,
         "tags": [
             "Marksman"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Void",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "ADC"
     },
     "Kalista": {
         "name": "Kalista",
@@ -565,7 +877,13 @@
         "attackrange": 525,
         "tags": [
             "Marksman"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Shadow Isles",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "ADC"
     },
     "Karma": {
         "name": "Karma",
@@ -576,7 +894,13 @@
         "tags": [
             "Mage",
             "Support"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Ionia",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Support"
     },
     "Karthus": {
         "name": "Karthus",
@@ -586,7 +910,13 @@
         "attackrange": 450,
         "tags": [
             "Mage"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Shadow Isles",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Jungle"
     },
     "Kassadin": {
         "name": "Kassadin",
@@ -597,7 +927,13 @@
         "tags": [
             "Assassin",
             "Mage"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Void",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Mid"
     },
     "Katarina": {
         "name": "Katarina",
@@ -608,7 +944,13 @@
         "tags": [
             "Assassin",
             "Mage"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Noxus",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Mid"
     },
     "Kayle": {
         "name": "Kayle",
@@ -619,7 +961,13 @@
         "tags": [
             "Fighter",
             "Support"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Demacia",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Top"
     },
     "Kayn": {
         "name": "Kayn",
@@ -630,7 +978,13 @@
         "tags": [
             "Fighter",
             "Assassin"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Ionia",
+        "IsDarkin": true,
+        "IsVastaya": false,
+        "canTransform": true,
+        "Role": "Jungle"
     },
     "Kennen": {
         "name": "Kennen",
@@ -641,7 +995,13 @@
         "tags": [
             "Mage",
             "Marksman"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Ionia",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Top"
     },
     "Khazix": {
         "name": "Kha'Zix",
@@ -651,7 +1011,13 @@
         "attackrange": 125,
         "tags": [
             "Assassin"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Void",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Jungle"
     },
     "Kindred": {
         "name": "Kindred",
@@ -661,7 +1027,13 @@
         "attackrange": 500,
         "tags": [
             "Marksman"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Others",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Jungle"
     },
     "Kled": {
         "name": "Kled",
@@ -672,7 +1044,13 @@
         "tags": [
             "Fighter",
             "Tank"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Noxus",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": true,
+        "Role": "Top"
     },
     "KogMaw": {
         "name": "Kog'Maw",
@@ -683,7 +1061,13 @@
         "tags": [
             "Marksman",
             "Mage"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Void",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "ADC"
     },
     "KSante": {
         "name": "K'Sante",
@@ -694,9 +1078,15 @@
         "tags": [
             "Tank",
             "Fighter"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Shurima",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Top"
     },
-    "Leblanc": {
+    "LeBlanc": {
         "name": "LeBlanc",
         "gender": "Female",
         "partype": "Mana",
@@ -705,7 +1095,13 @@
         "tags": [
             "Assassin",
             "Mage"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Noxus",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Mid"
     },
     "LeeSin": {
         "name": "Lee Sin",
@@ -716,7 +1112,13 @@
         "tags": [
             "Fighter",
             "Assassin"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Ionia",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Jungle"
     },
     "Leona": {
         "name": "Leona",
@@ -727,7 +1129,13 @@
         "tags": [
             "Tank",
             "Support"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Targon",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Support"
     },
     "Lillia": {
         "name": "Lillia",
@@ -738,7 +1146,13 @@
         "tags": [
             "Fighter",
             "Mage"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Ionia",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Jungle"
     },
     "Lissandra": {
         "name": "Lissandra",
@@ -748,7 +1162,13 @@
         "attackrange": 550,
         "tags": [
             "Mage"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Freljord",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Mid"
     },
     "Lucian": {
         "name": "Lucian",
@@ -758,7 +1178,13 @@
         "attackrange": 500,
         "tags": [
             "Marksman"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Demacia",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "ADC"
     },
     "Lulu": {
         "name": "Lulu",
@@ -769,7 +1195,13 @@
         "tags": [
             "Support",
             "Mage"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Bandle City",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Support"
     },
     "Lux": {
         "name": "Lux",
@@ -780,7 +1212,13 @@
         "tags": [
             "Mage",
             "Support"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Demacia",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Mid"
     },
     "Malphite": {
         "name": "Malphite",
@@ -791,7 +1229,13 @@
         "tags": [
             "Tank",
             "Fighter"
-        ]
+        ],
+        "Source": "Depends",
+        "Location": "Ixtal",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Top"
     },
     "Malzahar": {
         "name": "Malzahar",
@@ -802,7 +1246,13 @@
         "tags": [
             "Mage",
             "Assassin"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Void",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Mid"
     },
     "Maokai": {
         "name": "Maokai",
@@ -813,7 +1263,13 @@
         "tags": [
             "Tank",
             "Mage"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Shadow Isles",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Top"
     },
     "MasterYi": {
         "name": "Master Yi",
@@ -824,7 +1280,13 @@
         "tags": [
             "Assassin",
             "Fighter"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Ionia",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Jungle"
     },
     "Milio": {
         "name": "Milio",
@@ -834,7 +1296,13 @@
         "attackrange": 525,
         "tags": [
             "Support"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Ixtal",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Support"
     },
     "MissFortune": {
         "name": "Miss Fortune",
@@ -844,7 +1312,13 @@
         "attackrange": 550,
         "tags": [
             "Marksman"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Bilgewater",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "ADC"
     },
     "MonkeyKing": {
         "name": "Wukong",
@@ -855,7 +1329,13 @@
         "tags": [
             "Fighter",
             "Tank"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Ionia",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Top"
     },
     "Mordekaiser": {
         "name": "Mordekaiser",
@@ -865,7 +1345,13 @@
         "attackrange": 175,
         "tags": [
             "Fighter"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Noxus",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Top"
     },
     "Morgana": {
         "name": "Morgana",
@@ -876,7 +1362,13 @@
         "tags": [
             "Mage",
             "Support"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Demacia",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Support"
     },
     "Naafiri": {
         "name": "Naafiri",
@@ -886,7 +1378,13 @@
         "attackrange": 125,
         "tags": [
             "Assassin"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Shurima",
+        "IsDarkin": true,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Mid"
     },
     "Nami": {
         "name": "Nami",
@@ -897,7 +1395,13 @@
         "tags": [
             "Support",
             "Mage"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Others",
+        "IsDarkin": false,
+        "IsVastaya": true,
+        "canTransform": false,
+        "Role": "Support"
     },
     "Nasus": {
         "name": "Nasus",
@@ -908,7 +1412,13 @@
         "tags": [
             "Fighter",
             "Tank"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Shurima",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Top"
     },
     "Nautilus": {
         "name": "Nautilus",
@@ -919,7 +1429,13 @@
         "tags": [
             "Tank",
             "Support"
-        ]
+        ],
+        "Source": "Depends",
+        "Location": "Bilgewater",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Support"
     },
     "Neeko": {
         "name": "Neeko",
@@ -930,7 +1446,13 @@
         "tags": [
             "Mage",
             "Support"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Ixtal",
+        "IsDarkin": false,
+        "IsVastaya": true,
+        "canTransform": true,
+        "Role": "Mid"
     },
     "Nidalee": {
         "name": "Nidalee",
@@ -941,7 +1463,13 @@
         "tags": [
             "Assassin",
             "Mage"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Ixtal",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": true,
+        "Role": "Jungle"
     },
     "Nilah": {
         "name": "Nilah",
@@ -952,7 +1480,13 @@
         "tags": [
             "Fighter",
             "Assassin"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Bilgewater",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "ADC"
     },
     "Nocturne": {
         "name": "Nocturne",
@@ -963,7 +1497,13 @@
         "tags": [
             "Assassin",
             "Fighter"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Others",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Jungle"
     },
     "Nunu": {
         "name": "Nunu & Willump",
@@ -974,7 +1514,13 @@
         "tags": [
             "Tank",
             "Fighter"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Freljord",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Jungle"
     },
     "Olaf": {
         "name": "Olaf",
@@ -985,7 +1531,13 @@
         "tags": [
             "Fighter",
             "Tank"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Freljord",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Jungle"
     },
     "Orianna": {
         "name": "Orianna",
@@ -996,7 +1548,13 @@
         "tags": [
             "Mage",
             "Support"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Piltover",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Mid"
     },
     "Ornn": {
         "name": "Ornn",
@@ -1007,7 +1565,13 @@
         "tags": [
             "Tank",
             "Fighter"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Freljord",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Top"
     },
     "Pantheon": {
         "name": "Pantheon",
@@ -1018,7 +1582,13 @@
         "tags": [
             "Fighter",
             "Assassin"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Targon",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Top"
     },
     "Poppy": {
         "name": "Poppy",
@@ -1029,7 +1599,13 @@
         "tags": [
             "Tank",
             "Fighter"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Demacia",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Top"
     },
     "Pyke": {
         "name": "Pyke",
@@ -1040,7 +1616,13 @@
         "tags": [
             "Support",
             "Assassin"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Bilgewater",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Support"
     },
     "Qiyana": {
         "name": "Qiyana",
@@ -1051,7 +1633,13 @@
         "tags": [
             "Assassin",
             "Fighter"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Ixtal",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Mid"
     },
     "Quinn": {
         "name": "Quinn",
@@ -1062,7 +1650,13 @@
         "tags": [
             "Marksman",
             "Assassin"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Demacia",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Top"
     },
     "Rakan": {
         "name": "Rakan",
@@ -1072,7 +1666,13 @@
         "attackrange": 300,
         "tags": [
             "Support"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Ionia",
+        "IsDarkin": false,
+        "IsVastaya": true,
+        "canTransform": false,
+        "Role": "Support"
     },
     "Rammus": {
         "name": "Rammus",
@@ -1083,7 +1683,13 @@
         "tags": [
             "Tank",
             "Fighter"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Shurima",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Jungle"
     },
     "RekSai": {
         "name": "Rek'Sai",
@@ -1093,7 +1699,13 @@
         "attackrange": 175,
         "tags": [
             "Fighter"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Void",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": true,
+        "Role": "Jungle"
     },
     "Rell": {
         "name": "Rell",
@@ -1104,7 +1716,13 @@
         "tags": [
             "Tank",
             "Support"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Noxus",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Support"
     },
     "Renata": {
         "name": "Renata Glasc",
@@ -1115,7 +1733,13 @@
         "tags": [
             "Support",
             "Mage"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Zaun",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Support"
     },
     "Renekton": {
         "name": "Renekton",
@@ -1126,7 +1750,13 @@
         "tags": [
             "Fighter",
             "Tank"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Shurima",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Top"
     },
     "Rengar": {
         "name": "Rengar",
@@ -1137,7 +1767,13 @@
         "tags": [
             "Assassin",
             "Fighter"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Ixtal",
+        "IsDarkin": false,
+        "IsVastaya": true,
+        "canTransform": false,
+        "Role": "Jungle"
     },
     "Riven": {
         "name": "Riven",
@@ -1148,7 +1784,13 @@
         "tags": [
             "Fighter",
             "Assassin"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Noxus",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Top"
     },
     "Rumble": {
         "name": "Rumble",
@@ -1159,7 +1801,13 @@
         "tags": [
             "Fighter",
             "Mage"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Bandle City",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Top"
     },
     "Ryze": {
         "name": "Ryze",
@@ -1170,7 +1818,13 @@
         "tags": [
             "Mage",
             "Fighter"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Others",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Mid"
     },
     "Samira": {
         "name": "Samira",
@@ -1180,7 +1834,13 @@
         "attackrange": 500,
         "tags": [
             "Marksman"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Noxus",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "ADC"
     },
     "Sejuani": {
         "name": "Sejuani",
@@ -1191,7 +1851,13 @@
         "tags": [
             "Tank",
             "Fighter"
-        ]
+        ],
+        "Source": "Depends",
+        "Location": "Freljord",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Jungle"
     },
     "Senna": {
         "name": "Senna",
@@ -1202,7 +1868,13 @@
         "tags": [
             "Marksman",
             "Support"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Others",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Support"
     },
     "Seraphine": {
         "name": "Seraphine",
@@ -1213,7 +1885,13 @@
         "tags": [
             "Mage",
             "Support"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Piltover",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Support"
     },
     "Sett": {
         "name": "Sett",
@@ -1224,7 +1902,13 @@
         "tags": [
             "Fighter",
             "Tank"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Ionia",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Top"
     },
     "Shaco": {
         "name": "Shaco",
@@ -1234,7 +1918,13 @@
         "attackrange": 125,
         "tags": [
             "Assassin"
-        ]
+        ],
+        "Source": "Depends",
+        "Location": "Others",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Jungle"
     },
     "Shen": {
         "name": "Shen",
@@ -1244,7 +1934,13 @@
         "attackrange": 125,
         "tags": [
             "Tank"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Ionia",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Top"
     },
     "Shyvana": {
         "name": "Shyvana",
@@ -1255,7 +1951,13 @@
         "tags": [
             "Fighter",
             "Tank"
-        ]
+        ],
+        "Source": "Depends",
+        "Location": "Demacia",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": true,
+        "Role": "Jungle"
     },
     "Singed": {
         "name": "Singed",
@@ -1266,7 +1968,13 @@
         "tags": [
             "Tank",
             "Fighter"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Zaun",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Top"
     },
     "Sion": {
         "name": "Sion",
@@ -1277,7 +1985,13 @@
         "tags": [
             "Tank",
             "Fighter"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Noxus",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Top"
     },
     "Sivir": {
         "name": "Sivir",
@@ -1287,7 +2001,13 @@
         "attackrange": 500,
         "tags": [
             "Marksman"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Shurima",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "ADC"
     },
     "Skarner": {
         "name": "Skarner",
@@ -1298,7 +2018,13 @@
         "tags": [
             "Fighter",
             "Tank"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Shurima",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Jungle"
     },
     "Sona": {
         "name": "Sona",
@@ -1309,7 +2035,13 @@
         "tags": [
             "Support",
             "Mage"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Demacia",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Support"
     },
     "Soraka": {
         "name": "Soraka",
@@ -1320,7 +2052,13 @@
         "tags": [
             "Support",
             "Mage"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Targon",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Support"
     },
     "Swain": {
         "name": "Swain",
@@ -1331,7 +2069,13 @@
         "tags": [
             "Mage",
             "Fighter"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Noxus",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Support"
     },
     "Sylas": {
         "name": "Sylas",
@@ -1342,7 +2086,13 @@
         "tags": [
             "Mage",
             "Assassin"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Demacia",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": true,
+        "Role": "Mid"
     },
     "Syndra": {
         "name": "Syndra",
@@ -1352,7 +2102,13 @@
         "attackrange": 550,
         "tags": [
             "Mage"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Ionia",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Mid"
     },
     "TahmKench": {
         "name": "Tahm Kench",
@@ -1363,7 +2119,13 @@
         "tags": [
             "Support",
             "Tank"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Bilgewater",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Top"
     },
     "Taliyah": {
         "name": "Taliyah",
@@ -1374,7 +2136,13 @@
         "tags": [
             "Mage",
             "Support"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Shurima",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Jungle"
     },
     "Talon": {
         "name": "Talon",
@@ -1384,7 +2152,13 @@
         "attackrange": 125,
         "tags": [
             "Assassin"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Noxus",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Mid"
     },
     "Taric": {
         "name": "Taric",
@@ -1395,7 +2169,13 @@
         "tags": [
             "Support",
             "Fighter"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Targon",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Support"
     },
     "Teemo": {
         "name": "Teemo",
@@ -1406,7 +2186,13 @@
         "tags": [
             "Marksman",
             "Assassin"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Bandle City",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Top"
     },
     "Thresh": {
         "name": "Thresh",
@@ -1417,7 +2203,13 @@
         "tags": [
             "Support",
             "Fighter"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Shadow Isles",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Support"
     },
     "Tristana": {
         "name": "Tristana",
@@ -1428,7 +2220,13 @@
         "tags": [
             "Marksman",
             "Assassin"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Bandle City",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "ADC"
     },
     "Trundle": {
         "name": "Trundle",
@@ -1439,7 +2237,13 @@
         "tags": [
             "Fighter",
             "Tank"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Freljord",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Jungle"
     },
     "Tryndamere": {
         "name": "Tryndamere",
@@ -1450,9 +2254,15 @@
         "tags": [
             "Fighter",
             "Assassin"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Freljord",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Top"
     },
-    "TwistedFate": {
+    "Twisted Fate": {
         "name": "Twisted Fate",
         "gender": "Male",
         "partype": "Mana",
@@ -1460,7 +2270,13 @@
         "attackrange": 525,
         "tags": [
             "Mage"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Bilgewater",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Mid"
     },
     "Twitch": {
         "name": "Twitch",
@@ -1471,7 +2287,13 @@
         "tags": [
             "Marksman",
             "Assassin"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Zaun",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "ADC"
     },
     "Udyr": {
         "name": "Udyr",
@@ -1482,7 +2304,13 @@
         "tags": [
             "Fighter",
             "Tank"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Freljord",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Jungle"
     },
     "Urgot": {
         "name": "Urgot",
@@ -1493,7 +2321,13 @@
         "tags": [
             "Fighter",
             "Tank"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Zaun",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Top"
     },
     "Varus": {
         "name": "Varus",
@@ -1504,7 +2338,13 @@
         "tags": [
             "Marksman",
             "Mage"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Ionia",
+        "IsDarkin": true,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "ADC"
     },
     "Vayne": {
         "name": "Vayne",
@@ -1515,7 +2355,13 @@
         "tags": [
             "Marksman",
             "Assassin"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Demacia",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "ADC"
     },
     "Veigar": {
         "name": "Veigar",
@@ -1525,7 +2371,13 @@
         "attackrange": 550,
         "tags": [
             "Mage"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Bandle City",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Mid"
     },
     "Velkoz": {
         "name": "Vel'Koz",
@@ -1535,7 +2387,13 @@
         "attackrange": 525,
         "tags": [
             "Mage"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Void",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Mid"
     },
     "Vex": {
         "name": "Vex",
@@ -1545,7 +2403,13 @@
         "attackrange": 550,
         "tags": [
             "Mage"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Shadow Isles",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Mid"
     },
     "Vi": {
         "name": "Vi",
@@ -1556,7 +2420,13 @@
         "tags": [
             "Fighter",
             "Assassin"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Piltover",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Jungle"
     },
     "Viego": {
         "name": "Viego",
@@ -1567,7 +2437,13 @@
         "tags": [
             "Assassin",
             "Fighter"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Shadow Isles",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Jungle"
     },
     "Viktor": {
         "name": "Viktor",
@@ -1577,7 +2453,13 @@
         "attackrange": 525,
         "tags": [
             "Mage"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Zaun",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Mid"
     },
     "Vladimir": {
         "name": "Vladimir",
@@ -1587,7 +2469,13 @@
         "attackrange": 450,
         "tags": [
             "Mage"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Noxus",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Mid"
     },
     "Volibear": {
         "name": "Volibear",
@@ -1598,7 +2486,13 @@
         "tags": [
             "Fighter",
             "Tank"
-        ]
+        ],
+        "Source": "Depends",
+        "Location": "Freljord",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Top"
     },
     "Warwick": {
         "name": "Warwick",
@@ -1609,7 +2503,13 @@
         "tags": [
             "Fighter",
             "Tank"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Zaun",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Jungle"
     },
     "Xayah": {
         "name": "Xayah",
@@ -1619,7 +2519,13 @@
         "attackrange": 525,
         "tags": [
             "Marksman"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Ionia",
+        "IsDarkin": false,
+        "IsVastaya": true,
+        "canTransform": false,
+        "Role": "ADC"
     },
     "Xerath": {
         "name": "Xerath",
@@ -1629,9 +2535,15 @@
         "attackrange": 525,
         "tags": [
             "Mage"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Shurima",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Mid"
     },
-    "XinZhao": {
+    "Xin Zhao": {
         "name": "Xin Zhao",
         "gender": "Male",
         "partype": "Mana",
@@ -1640,7 +2552,13 @@
         "tags": [
             "Fighter",
             "Assassin"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Demacia",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Jungle"
     },
     "Yasuo": {
         "name": "Yasuo",
@@ -1651,7 +2569,13 @@
         "tags": [
             "Fighter",
             "Assassin"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Ionia",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Mid"
     },
     "Yone": {
         "name": "Yone",
@@ -1662,7 +2586,13 @@
         "tags": [
             "Assassin",
             "Fighter"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Ionia",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Mid"
     },
     "Yorick": {
         "name": "Yorick",
@@ -1673,7 +2603,13 @@
         "tags": [
             "Fighter",
             "Tank"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Shadow Isles",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Top"
     },
     "Yuumi": {
         "name": "Yuumi",
@@ -1684,7 +2620,13 @@
         "tags": [
             "Support",
             "Mage"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Bandle City",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Support"
     },
     "Zac": {
         "name": "Zac",
@@ -1695,7 +2637,13 @@
         "tags": [
             "Tank",
             "Fighter"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Zaun",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Jungle"
     },
     "Zed": {
         "name": "Zed",
@@ -1705,7 +2653,13 @@
         "attackrange": 125,
         "tags": [
             "Assassin"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Ionia",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Mid"
     },
     "Zeri": {
         "name": "Zeri",
@@ -1715,7 +2669,13 @@
         "attackrange": 500,
         "tags": [
             "Marksman"
-        ]
+        ],
+        "Source": "AD",
+        "Location": "Zaun",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "ADC"
     },
     "Ziggs": {
         "name": "Ziggs",
@@ -1725,7 +2685,13 @@
         "attackrange": 550,
         "tags": [
             "Mage"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Zaun",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Mid"
     },
     "Zilean": {
         "name": "Zilean",
@@ -1736,7 +2702,13 @@
         "tags": [
             "Support",
             "Mage"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Others",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Support"
     },
     "Zoe": {
         "name": "Zoe",
@@ -1747,7 +2719,13 @@
         "tags": [
             "Mage",
             "Support"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Targon",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Mid"
     },
     "Zyra": {
         "name": "Zyra",
@@ -1758,6 +2736,12 @@
         "tags": [
             "Mage",
             "Support"
-        ]
+        ],
+        "Source": "AP",
+        "Location": "Ixtal",
+        "IsDarkin": false,
+        "IsVastaya": false,
+        "canTransform": false,
+        "Role": "Support"
     }
 }
